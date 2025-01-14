@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { ThemeProvider } from '@emotion/react';
 import { CssBaseline } from '@mui/material';
 
